@@ -60,9 +60,22 @@ University of Guilan
 ============================
 0. Factorial
 1. Even/Odd Between
-...
-...
-...
+2. Fibonacci
+3. Nth Prime
+4. Check Perfect Number
+5. Date Converter (Shamsi ? Gregorian)
+6. Top 3 Student Average
+7. GCD and LCM
+8. Sum and Product of Digits
+9. Count Words and Letters
+10. Square of Stars
+11. 3-Digit Palindromes
+12. Divisors of a Number
+13. Power A^B
+14. Substring Search
+15. Bubble Sort
+16. Max and Min in Array
+17. Help (Function Descriptions)
 -1. Exit
 ============================
 Enter function number (-1 to exit): 0
