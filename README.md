@@ -48,28 +48,30 @@ The program provides the following functionalities:
 - **Compiler:** Any modern C++ compiler (GCC, MinGW, Visual Studio, etc.)  
 - **Platform:** Windows (uses `windows.h` for colored console output)
 
+---
 ## Example Output
-##### ===============================
-##### Welcome
-##### Principles of Computer Programming Project
-##### Seyedeh Asal Mahmodi Nezhad Dezfouli
-##### Professor: Dr. Saeed Ansari
-##### Summer 2025
-##### University of Guilan
-##### ===============================
+```
+===============================
+Welcome
+Principles of Computer Programming Project
+Seyedeh Asal Mahmodi Nezhad Dezfouli
+Professor: Dr. Saeed Ansari
+Summer 2025
+University of Guilan
+===============================
 
-##### ============================
-#####        MAIN MENU
-##### ============================
-##### 0. Factorial
-##### 1. Even/Odd Between
-##### ...
-##### ...
-##### ...
-##### -1. Exit
-##### ============================
-##### Enter function number (-1 to exit): 0
-##### Enter a number for factorial: 5
-##### Factorial of 5 is 120
-
+============================
+        MAIN MENU
+============================
+0. Factorial
+1. Even/Odd Between
+...
+...
+...
+-1. Exit
+============================
+Enter function number (-1 to exit): 0
+Enter a number for factorial: 5
+Factorial of 5 is 120
+```
 
