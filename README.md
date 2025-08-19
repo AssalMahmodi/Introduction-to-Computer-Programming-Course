@@ -39,7 +39,7 @@ The program provides the following functionalities:
 | 14 | Substring Search | Searches for a substring in a string. |
 | 15 | Bubble Sort | Sorts an array using bubble sort algorithm. |
 | 16 | Max and Min in Array | Finds the maximum and minimum in an array. |
-| 17 | Description About All Functions in App. |
+| 17 | Help | Description About All Functions in App. |
 
 ---
 
