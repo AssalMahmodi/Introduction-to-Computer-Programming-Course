@@ -1,9 +1,4 @@
 # Introductionn to Computer Programming Final Project
-## Professor: Dr.Saeed Ansari
-
-
-
-
 ## Overview
 
 This project is a **multi-functional console application** developed in **C++** for the course *Introduction to Computer and Programming*.  
@@ -20,7 +15,7 @@ It includes various functions for mathematical calculations, date conversions, s
 
 The program provides the following functionalities:
 
-| No | Function | Description |
+| No. | Function | Description |
 |----|----------|-------------|
 | 0  | Factorial | Calculates the factorial of a number. |
 | 1  | Even/Odd Between | Lists even or odd numbers between two given numbers. |
